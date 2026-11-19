@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá! Sou Pedro Henrique
 
-<!--
-**pedrowq/pedrowq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor de Software em formação.
 
-Here are some ideas to get you started:
+🎓 Estudante de tecnologia, em busca da minha primeira oportunidade de estágio na área de desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Conhecimentos em Python, Java, JavaScript e HTML.
+
+🤖 Atualmente estudando Inteligência Artificial e Automação.
+
+📚 Aprimorando meus conhecimentos em Git, GitHub e desenvolvimento de sistemas.
+
+🎯 Meu objetivo é adquirir experiência prática, contribuir com projetos reais e evoluir profissionalmente na área de tecnologia.
